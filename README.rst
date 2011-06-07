@@ -1,9 +1,7 @@
 Licensed under the Creative Commons Attribution 3.0 Unported License.
 http://creativecommons.org/licenses/by/3.0/
 
-============================================
- Demonstration of a passive compliant joint
-============================================
+**Demonstration of a passive compliant joint**
  
 by Fernando L. Garcia Bermudez
 
