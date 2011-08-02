@@ -5,7 +5,7 @@ http://creativecommons.org/licenses/by/3.0/
  
 by Fernando L. Garcia Bermudez
 
-v.1.0
+v.1.0.1
 
 Description:
  This is a simulation of a passive compliant joint set up in Blender via
@@ -14,4 +14,5 @@ Description:
  damping constant (B_theta), and the resting position (theta_0) of the joint.
  
 Usage:
- Press "P" when the cursor is inside the 3D view to run the simulation.
+ To run the simulation, press "p" when the cursor is inside the 3D view or
+ select "Start Game Engine" from the Game menu.
